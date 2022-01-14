@@ -65,6 +65,7 @@
     line-height: 1.14;
     letter-spacing: 0.02em;
     }
+    
     .contacts-list .link:focus,
     .contacts-list .link:hover {
     color: var(--accent-color);

@@ -24,6 +24,34 @@
     .logo-studio {
         color: #000000;
     }
+    .nav-link-studio {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.02em;
+    color: #2196F3;
+    }
+    .nav-link {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.02em;
+    color: #212121;
+    }
+    .header-link-mail {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.02em;
+    color: #2196F3;
+    }
+    .header-link-tel {
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 1.14;
+        letter-spacing: 0.02em;
+        color: #757575;
+    }
     .style-logo {
     color: var(--accent-color);
     text-decoration: none;
@@ -175,9 +203,9 @@
     }
     .title {
         color: var(--primery-text-color);
-        text-decoration: none;
+        /*text-decoration: none;
         font-style: normal;
-        font-weight: 700;
+        font-weight: 700;*/
         font-size: 18px;
         line-height: 2;
         letter-spacing: 0.06em;
